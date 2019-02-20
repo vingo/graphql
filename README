@@ -1,10 +1,12 @@
 step 1:
 npm i --save-dev graphpack@1.0.2
+
 step 2:
   add scripts:
   scripts:{
        "dev": "graphpack",
     "build": "graphpack build"
   }
-step 3 :
+  
+step 3:
 npm run dev  
